@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombineDB", "CombineDB\CombineDB.csproj", "{05E59D15-4A70-4510-AC3B-6EEAC992FF02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05E59D15-4A70-4510-AC3B-6EEAC992FF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E59D15-4A70-4510-AC3B-6EEAC992FF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E59D15-4A70-4510-AC3B-6EEAC992FF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E59D15-4A70-4510-AC3B-6EEAC992FF02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA21EE26-DA9F-4291-BCD9-91AED800D4A4}
+	EndGlobalSection
+EndGlobal
